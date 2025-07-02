@@ -1,4 +1,5 @@
 import Agent from "@/components/Agent";
+import { getCurrentUser } from "@/lib/action/auth.action";
 
 const Page = () => {
     return (
